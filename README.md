@@ -5,7 +5,7 @@ Performed web traffic analysis across the City of Santa Monica's web presence. W
 
 We also analyzed the effect of the confounding variables (avg page load time, avg time on page, bounces) on the page views of the web pages.
 
-Dataset Link: https://data.smgov.net/Public-Services/Web-Analytics/8dh4-6epx
+[Dataset Link](https://data.smgov.net/Public-Services/Web-Analytics/8dh4-6epx)
 
 ## More
 [Project Presentation](Gaonkar_Newalkar_CS6053Presentation.pdf)
